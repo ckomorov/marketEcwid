@@ -1,0 +1,8 @@
+composer.phar
+composer.lock
+/vendor/
+/logs/
+/config/
+/.idea/
+
+our.log

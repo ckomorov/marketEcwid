@@ -1,0 +1,5 @@
+{
+    "require": {
+        "yandex-market/yandex-market-php-partner": "^2.4"
+    }
+}
